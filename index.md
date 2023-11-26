@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+<!-- This comment fixes the title and the header being the same -->
+
 # Welcome to my portfolio website
 
 I am interested mainly in Computer Science, Mathematics and Physics.
